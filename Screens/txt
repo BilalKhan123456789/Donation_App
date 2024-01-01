@@ -1,0 +1,75 @@
+// import { StyleSheet, Text, TextInput, TouchableOpacity, View } from 'react-native'
+// import React, { useState } from 'react'
+// import firestore from '@react-native-firebase/firestore';
+// import database from '@react-native-firebase/database';
+
+// export default function Registration() {
+
+
+//     const [donate,setdonate] = useState()
+//     const [phone,setphone] = useState()
+//     const [email,setemail] = useState()
+//     const [country,setcountry] = useState()
+
+
+//     const handleSubmit =async ()=>{
+
+
+//         let key = firestore().collection('user').doc().id;
+
+//         let obj = {
+//             email,
+//             phone,
+//             donate,
+//             country
+//         }
+
+//         await database()
+//             .ref(`/users/${key}`)
+//             .set(obj)
+//             .then(() => console.log('Data set.'));
+    
+
+
+
+// //  firestore()
+// //         .collection('smit').doc("hyd_staff")
+// //         .collection("it_staff").doc(1234)
+// //         .collection("cco").doc(123456)
+// //         .set({
+// //             name: 'Ali',
+// //             age: 30,
+// //             key
+// //         })
+// //         .then(() => {
+// //             console.log('User added!');
+// //         });
+
+//     }
+
+
+
+//   return (
+//     <View style={{backgroundColor:"gray"}}>
+    
+// <TextInput placeholder='Donar Name' onChangeText={(e)=>setdonate(e)}/>
+// <TextInput placeholder='Phone' keyboardType='number-pad' onChangeText={(e)=>setphone(e)}/>
+// <TextInput placeholder='Email' onChangeText={(e)=>setemail(e)}/>
+// <TextInput placeholder='Country' onChangeText={(e)=>setcountry(e)}/>
+
+// <TouchableOpacity onPress={handleSubmit}>
+
+// <Text>Submit</Text>
+
+// </TouchableOpacity>
+
+
+
+//     </View>
+//   )
+// }
+
+// const styles = StyleSheet.create({
+
+
+// })

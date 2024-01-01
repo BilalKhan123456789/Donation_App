@@ -1,0 +1,304 @@
+
+        {/* project */}
+
+        {/* <View style={{margin: 20}}>
+          <Text style={{color: 'black', fontSize: 17, fontWeight: '500'}}>
+            Other Project
+          </Text>
+        </View>
+
+        <ScrollView
+          horizontal={true}
+          style={{marginHorizontal: 16}}>
+
+        <View>
+          <View
+            style={{
+              width: 260,
+              height: 90,
+              backgroundColor: '#f1f5f9',
+              flexDirection:"row",
+             
+              borderRadius: 20,
+              marginRight:25,
+              position: 'relative',
+            }}>
+
+<View style={{width:70+"%",padding:5,margin:10}}>
+<Text style={{color:"gray",fontSize:17,fontWeight:"600",flexWrap:"wrap"}}>IT Entrepreneurship Couress</Text>
+<View style={{flexDirection:"row",gap:10}}>
+
+<View style={{flexDirection:"row",alignItems:"center",gap:3}}>
+  <Text style={{color:"gray",fontSize:12}}>Goals</Text>
+  <Text style={{color:"#38BD10",fontSize:14}}>100K</Text>
+
+</View>
+
+
+<View style={{flexDirection:"row",alignItems:"center",gap:3}}>
+  <Text style={{color:"gray",fontSize:12}}>Achive</Text>
+  <Text style={{color:"#38BD10",fontSize:14}}>30K</Text>
+
+</View>
+
+</View>
+</View>
+
+              <Image
+              source={{
+                uri: 'https://res.cloudinary.com/saylani-welfare/image/upload/v1654923364/website-images/dynamic/c6fdf6af-51d5-4388-97ef-6cf10eb73aca.jpg',
+              }} // Replace with the actual path to your image
+              style={{width: 70, height: 70, objectFit: 'fill', marginTop: 10,borderRadius:10}}
+            />
+
+          </View>
+        </View>
+
+
+        <View>
+          <View
+            style={{
+              width: 260,
+              height: 90,
+              backgroundColor: '#f1f5f9',
+              flexDirection:"row",
+             
+              borderRadius: 20,
+              marginRight:25,
+              position: 'relative',
+            }}>
+
+<View style={{width:70+"%",padding:5,margin:10}}>
+<Text style={{color:"gray",fontSize:17,fontWeight:"600",flexWrap:"wrap"}}>Daily Food  {'\n'}</Text>
+<View style={{flexDirection:"row",gap:10}}>
+
+<View style={{flexDirection:"row",alignItems:"center",gap:3}}>
+  <Text style={{color:"gray",fontSize:12}}>Goals</Text>
+  <Text style={{color:"#38BD10",fontSize:14}}>200K</Text>
+
+</View>
+
+
+<View style={{flexDirection:"row",alignItems:"center",gap:3}}>
+  <Text style={{color:"gray",fontSize:12}}>Achive</Text>
+  <Text style={{color:"#38BD10",fontSize:14}}>200K</Text>
+
+</View>
+
+</View>
+</View>
+
+              <Image
+              source={{
+                uri: 'https://res.cloudinary.com/saylani-welfare/image/upload/v1676274365/website-images/dynamic/b0abff1d-a3f9-49a7-9d58-273bbc735561.jpg',
+              }} // Replace with the actual path to your image
+              style={{width: 70, height: 70, objectFit: 'fill', marginTop: 10,borderRadius:10}}
+            />
+
+          </View>
+        </View>
+
+
+        <View>
+          <View
+            style={{
+              width: 260,
+              height: 90,
+              backgroundColor: '#f1f5f9',
+              flexDirection:"row",
+             
+              borderRadius: 20,
+              marginRight:25,
+              position: 'relative',
+            }}>
+
+<View style={{width:70+"%",padding:5,margin:10}}>
+<Text style={{color:"gray",fontSize:17,fontWeight:"600",flexWrap:"wrap"}}>Zakat  {'\n'}</Text>
+<View style={{flexDirection:"row",gap:10}}>
+
+<View style={{flexDirection:"row",alignItems:"center",gap:3}}>
+  <Text style={{color:"gray",fontSize:12}}>Goals</Text>
+  <Text style={{color:"#38BD10",fontSize:14}}>10M</Text>
+
+</View>
+
+
+<View style={{flexDirection:"row",alignItems:"center",gap:3}}>
+  <Text style={{color:"gray",fontSize:12}}>Achive</Text>
+  <Text style={{color:"#38BD10",fontSize:14}}>1000K</Text>
+
+</View>
+
+</View>
+</View>
+
+              <Image
+              source={{
+                uri: 'https://res.cloudinary.com/saylani-welfare/image/upload/v1678691645/website-images/dynamic/8517e89c-e41d-4868-8c92-3bbc0d1f9339.jpg',
+              }} // Replace with the actual path to your image
+              style={{width: 70, height: 70, objectFit: 'fill', marginTop: 10,borderRadius:10}}
+            />
+
+          </View>
+        </View>
+        </ScrollView> */}
+
+
+{/* Donation  */}
+
+
+{/* <View style={{margin: 20}}>
+          <Text style={{color: 'black', fontSize: 17, fontWeight: '500'}}>
+            Donation Statistics
+          </Text>
+        </View> */}
+
+{/* <ScrollView horizontal={true} style={{}}>
+
+        <View style={styles.Mediamcard}>
+            <Image
+              source={{
+                uri: 'https://res.cloudinary.com/saylani-welfare/image/upload/v1646928748/website-images/static/50.png',
+              }} // Replace with the actual path to your image
+              style={{width: 60, height: 60, objectFit: 'fill', marginTop: 10}}
+            />
+             <Text style={{fontSize: 14, fontWeight: '500', color: '#0369a1'}}>
+              Food
+            </Text>
+            <Text style={{fontSize: 15, fontWeight: '500', color: '#38BD10'}}>
+              300000
+            </Text>
+            <Text style={{fontSize: 15, fontWeight: '500', color: 'gray'}}>
+              (Daily)
+            </Text>
+          </View>
+
+          <View style={styles.Mediamcard}>
+            <Image
+              source={{
+                uri: 'https://res.cloudinary.com/saylani-welfare/image/upload/v1646928746/website-images/static/49.png',
+              }} // Replace with the actual path to your image
+              style={{width: 60, height: 60, objectFit: 'fill', marginTop: 10}}
+            />
+            <Text style={{fontSize: 14, fontWeight: '500', color: '#0369a1'}}>
+              Family Adoption
+            </Text>
+            <Text style={{fontSize: 15, fontWeight: '500', color: '#38BD10'}}>
+              20000
+            </Text>
+            <Text style={{fontSize: 15, fontWeight: '500', color: 'gray'}}>
+              (Monthly)
+            </Text>
+          </View>
+
+          <View style={styles.Mediamcard}>
+            <Image
+              source={{
+                uri: 'https://res.cloudinary.com/saylani-welfare/image/upload/v1646928752/website-images/static/51.png',
+              }} // Replace with the actual path to your image
+              style={{width: 60, height: 60, objectFit: 'fill', marginTop: 10}}
+            />
+             <Text style={{fontSize: 14, fontWeight: '500', color: '#0369a1'}}>
+              Education
+            </Text>
+            <Text style={{fontSize: 15, fontWeight: '500', color: '#38BD10'}}>
+              25000
+            </Text>
+            <Text style={{fontSize: 15, fontWeight: '500', color: 'gray'}}>
+              (Monthly)
+            </Text>
+          </View>
+
+          <View style={styles.Mediamcard}>
+            <Image
+              source={{
+                uri: 'https://res.cloudinary.com/saylani-welfare/image/upload/v1646928755/website-images/static/52.png',
+              }} // Replace with the actual path to your image
+              style={{width: 60, height: 60, objectFit: 'fill', marginTop: 10}}
+            />
+             <Text style={{fontSize: 14, fontWeight: '500', color: '#0369a1'}}>
+              Medical
+            </Text>
+            <Text style={{fontSize: 15, fontWeight: '500', color: '#38BD10'}}>
+              125000
+            </Text>
+            <Text style={{fontSize: 15, fontWeight: '500', color: 'gray'}}>
+              (Monthly)
+            </Text>
+          </View>
+
+
+
+</ScrollView> */}
+
+{/* Our Testimonials   */}
+
+
+
+{/* <View style={{margin: 20}}>
+          <Text style={{color: 'black', fontSize: 17, fontWeight: '500'}}>
+            Our Testimonials
+          </Text>
+        </View>
+
+        <View style={{justifyContent: 'center', padding: 10}}>
+          <Swiper style={styles.wrapper2} showsButtons={true} >
+
+          <View style={{flexDirection:"column",justifyContent:"center",alignItems:"center",backgroundColor:"#e5e7eb",height:300}}>
+              <Image
+                source={{
+                  uri: 'https://res.cloudinary.com/saylani-welfare/image/upload/v1648318863/website-images/static/95.jpg',
+                }} // Replace with the actual path to your image
+                style={{
+                  width: 30 + '%',
+                  height: 100,
+                  objectFit: 'fill',
+                  borderRadius: 100,
+                }}
+              />
+<Text style={{fontSize:17,fontWeight:500,color:"black"}}>Arshad Wali Muhammad</Text>
+<Text style={{fontSize:15,fontWeight:500,color:"gray"}}>Group Director, Gerrys Group</Text>
+<Text style={{fontSize:15,fontWeight:500,color:"gray",marginHorizontal:10,textAlign:"left"}}>Saylani Welfare Trust is a name that needs
+on introudction today. The joueney this team embarked upon was made possinle
+</Text>
+
+<View style={{display:"flex", width:100+"%",marginTop:10,justifyContent:"flex-end"}}>
+  <Text style={{textAlign:"right",marginHorizontal:10,fontSize:16,color:"#0369a1"}}>Explorer More</Text>
+</View>
+
+
+            </View>
+
+
+
+            <View style={{flexDirection:"column",justifyContent:"center",alignItems:"center",backgroundColor:"#e5e7eb",height:300}}>
+              <Image
+                source={{
+                  uri: 'https://res.cloudinary.com/saylani-welfare/image/upload/v1648319107/website-images/static/96.jpg',
+                }} // Replace with the actual path to your image
+                style={{
+                  width: 30 + '%',
+                  height: 100,
+                  objectFit: 'fill',
+                  borderRadius: 100,
+                }}
+              />
+<Text style={{fontSize:17,fontWeight:500,color:"black"}}>Asif Ismail</Text>
+<Text style={{fontSize:15,fontWeight:500,color:"gray"}}>C.O.O. & Director, Premier Cables Pvt. Ltd</Text>
+<Text style={{fontSize:15,fontWeight:500,color:"gray",marginHorizontal:10,textAlign:"left"}}>When we talk about serving humanity, no second thought occurs other than Saylani Welfare Trust. Saylani is doing 
+</Text>
+
+<View style={{display:"flex", width:100+"%",marginTop:10,justifyContent:"flex-end"}}>
+  <Text style={{textAlign:"right",marginHorizontal:10,fontSize:16,color:"#0369a1"}}>Explorer More</Text>
+</View>
+
+
+            </View>
+           
+
+           
+
+
+           
+          </Swiper>
+        </View> */}
